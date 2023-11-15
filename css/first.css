@@ -792,14 +792,14 @@ button {
 }
 @font-face {
   font-family: 'UbuntuMono';
-  src: url("https://unpkg.com/volantis-static@0.0.1654736714924/media/fonts/UbuntuMono/UbuntuMono-Regular.ttf");
+  src: url("https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/LiuJianMaoCao.woff2");
   font-weight: 'normal';
   font-style: 'normal';
   font-display: swap;
 }
 @font-face {
   font-family: 'LiuJianMaoCao';
-  src: url("https://unpkg.com/volantis-static@0.0.1654736714924/media/fonts/VarelaRound/VarelaRound-Regular.ttf");
+  src: url("https://cdn.jsdelivr.net/gh/inkss/common@1/fonts/canva/LiuJianMaoCao.woff2");
   font-weight: 'normal';
   font-style: 'normal';
   font-display: swap;
